@@ -11,8 +11,8 @@ public class Link1 {
 		a.add(false);
 		a.add(null);
 	    System.out.println(a);
-		System.out.println(a.isEmpty());
-		System.out.println(a.size());
+//		System.out.println(a.isEmpty());
+	    System.out.println(a.size());
 		// do-while loop
 		
 //		int i =0;
@@ -27,9 +27,7 @@ public class Link1 {
 //		System.out.println(x);
 
 
-		for(boolean i=a.size()-1;i>=0;i--;) {
-			System.out.println(i);
-		}
+		
 		//for loop
 //		System.out.println(a.get(i1));
 //		for(int i1 =0 ; i1<a.size();i1++)
