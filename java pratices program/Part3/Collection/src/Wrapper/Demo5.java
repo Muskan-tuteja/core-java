@@ -15,6 +15,14 @@ public class Demo5 {
 		System.out.println(a.isEmpty());
 		System.out.println(a.size());
 		
+		int i =0;
+		do {
+//			System.out.println(a.get(3));
+			System.out.println(a.get(i));
+			i++;
+		}
+		while(i<a.size());
+		
 
 		}
 }

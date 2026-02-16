@@ -15,8 +15,31 @@ public class Demo4 {
 	    System.out.println(a);
 		System.out.println(a.isEmpty());
 		System.out.println(a.size());
+		//for Each
+//		for(Double x:a)
+//		{
+//			System.out.println(x);
+//		}
+		
+//		int i =0; 
+//		while(i<a.size())
+//		{
+//			System.out.println(a.get(i));
+//			i++;
+//		}
+		
+		// do-while loop
+		int i =0;
+		do {
+			System.out.println(a.get(3));
+			System.out.println(a.get(i));
+			i++;
+		}
+		while(i<a.size());
+		
 		
 
 		}
+	
 
 }

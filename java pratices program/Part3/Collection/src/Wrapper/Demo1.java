@@ -17,6 +17,19 @@ public class Demo1 {
 		System.out.println(a.isEmpty());
 		System.out.println(a.size());
 		
+//		for(Integer x:a)
+//		{
+//			System.out.println(x);
+//		}
+		
+		//for loop
+//		System.out.println(a.get(1));
+//		for(int i = 0;i < a.size();i++) {
+//			System.out.println(a.get(i));
+//		}
+		
+		// do while loop
+		
 
 		}
 

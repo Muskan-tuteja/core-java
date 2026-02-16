@@ -13,6 +13,8 @@ public class Demo4 {
 		System.out.println(a);
 		System.out.println(a.size());
 		System.out.println(a.isEmpty());
+		
+		
 
 		}
 }

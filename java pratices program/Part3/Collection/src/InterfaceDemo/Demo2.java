@@ -12,6 +12,12 @@ public class Demo2 {
 		a.add(null);
 		System.out.println(a);
 		System.out.println(a.isEmpty());
+		
+		//for loop
+		System.out.println(a.get(1));
+		for(int i = 0;i < a.size();i++) {
+			System.out.println(a.get(i));
+		}
 
 		}
 

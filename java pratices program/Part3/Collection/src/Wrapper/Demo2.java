@@ -14,6 +14,11 @@ public class Demo2 {
 		System.out.println(a.isEmpty());
 		System.out.println(a.size());
 		
+		for(Long x:a)
+		{
+			System.out.println(x);
+		}
+		
 
 		}
 
